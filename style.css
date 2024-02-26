@@ -1,0 +1,46 @@
+header{
+    margin-bottom: 0;
+   background-color: MistyRose;
+}
+main{
+    margin-top: 0;
+    background-color: MistyRose;
+}
+h1{
+    color: HotPink;
+    text-align: center;
+    
+}
+img{
+    height: 300px;
+    width: 350px;  
+     margin: auto;
+   display: block;
+    border: 10px solid LightPink;
+}
+
+p{
+    color: #ff66b3;
+font-family: cursive;
+text-align: center;
+ font-weight: 700;
+ font-size: 20px;
+ 
+}
+.cen{
+    display: flex;
+}
+.im{
+    flex: 1;
+    text-align: center;
+    padding: 10px;
+}
+.sa{
+     background-color: #e6005c;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 10px ;
+      margin: 20px;
+      border-radius: 25px;
+}
